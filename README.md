@@ -57,3 +57,6 @@ This option shows the list of every student authorized to use the laboratory (*n
 ### Option 6: Close the program
 
 This option closes the program.
+
+![GitHub](https://img.shields.io/github/license/ZhangDreamer/Reservation-System-CodeDemo)
+
